@@ -47,7 +47,7 @@ This Python script uses YOLOv8 for object detection on a given video. It downloa
 2. Run the script:
 
     ```bash
-    python object_detection_script.py
+    python OD_YOLOv8.py.py
     ```
 
 3. The script will download the video, perform object detection, and create an output video with annotated objects.
@@ -66,6 +66,3 @@ This Python script uses YOLOv8 for object detection on a given video. It downloa
 
 - moviepy: https://zulko.github.io/moviepy/
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
